@@ -1,9 +1,7 @@
 import crud as cr
 import generator as gen
 
-
 print('\nстарт программы "телефонная книга"')
-
 
 def ls_menu():
     while True:
@@ -113,7 +111,6 @@ def ls_menu():
         else:
             print(
                 '\nТакого пункта меню не существует.\nВведите цифру, соответствующую пункту меню.')
-
 
 def сhecking_the_number(arg):
     while arg.isdigit() != True:
