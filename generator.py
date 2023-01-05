@@ -10,7 +10,7 @@ file.writelines(newrecord)
 ls_name = ['Svetlana', 'Olga', 'Anton', 'Anna', 'Inna',
            'Viktor', 'Vasilisa', 'Alex', 'Miron', 'Igor', 'Anna']
 ls_surname = ['Kovalenko', 'Sidorenko', 'Mironenko',
-              'Galich', 'Shapiro', 'Duma', 'Duma', 'Shagal', 'Moroz']
+              'Galich', 'Shapiro', 'Duma', 'Kama', 'Shagalo', 'Morozenko']
 ls_e_mail = ['@gmail.com', '@yandex.ru', '@mail.ru']
 
 
